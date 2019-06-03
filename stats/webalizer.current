@@ -1,0 +1,2499 @@
+# Webalizer V2.01-10 Incremental Data - 02/22/2011 23:18:59
+2011 2 22 23 18 59
+3123 2006 420 139 123 200 52232489 1620 913 0
+31 3 105 1 22
+106 66 832319 40 50 39
+200 104 1834812 31 74 45
+107 54 461142 22 49 41
+209 161 4651133 40 148 39
+88 43 749682 29 44 34
+94 55 971794 33 49 40
+189 97 4760553 41 79 44
+160 120 5639623 30 100 29
+85 53 1561044 27 47 35
+131 74 1797245 34 69 51
+129 73 1801138 34 48 44
+113 81 2260904 23 62 47
+135 94 2513178 27 93 44
+134 83 1862846 36 66 48
+179 135 1955467 34 99 48
+78 47 1454377 31 42 31
+151 90 2427896 47 59 41
+166 107 1381274 42 97 38
+186 134 2281023 31 89 51
+149 108 2125776 27 98 44
+192 129 5268761 30 95 45
+142 98 3640502 31 63 36
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+107 61 520589 54
+182 154 2902681 135
+182 114 1340341 75
+226 168 3138633 131
+165 99 1756301 65
+102 67 2939055 40
+96 54 3037488 51
+53 28 1185460 33
+123 73 1906257 68
+76 38 2357808 52
+104 63 2878166 48
+66 29 461157 43
+111 75 2029523 68
+108 61 1740950 55
+159 117 1768662 103
+92 59 684253 57
+228 135 6030182 94
+150 85 3129282 52
+156 107 1743785 81
+112 63 1156321 49
+115 75 2907614 56
+95 56 1772456 42
+210 162 4128652 122
+105 63 716873 46
+0
+0
+0
+2006
+0
+0
+0
+0
+0
+61
+0
+0
+0
+0
+316
+0
+0
+0
+0
+0
+0
+740
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/PAF/pafn18.htm
+0 2 0 3397 1 1
+/
+0 330 0 833086 232 143
+/PAF/pafg09.htm
+0 19 0 286670 10 4
+/PAF/pafn29.htm
+0 4 0 3181 1 2
+/PAF/pafc10.htm
+0 5 8569968 9372 2 3
+/PAF/pafg60.htm
+0 12 0 132614 6 5
+/PAF/pafn06.htm
+0 5 0 110861 2 1
+/images/ludchurch.jpg
+1 12 0 122472 0 0
+/PAF/pafg08.htm
+0 16 0 307115 7 3
+/PAF/pafn28.htm
+0 3 0 5386 1 1
+/PAF/pafg19.htm
+0 13 0 174754 6 5
+/PAF/pafn05.htm
+0 2 0 26357 0 0
+/PAF/pafx.htm
+0 26 0 37775 9 9
+/PAF/pafg70.htm
+0 22 0 87649 12 10
+/PAF/pafn16.htm
+0 4 0 8545 2 1
+/PAF/pafg07.htm
+0 19 0 421853 10 7
+/PAF/pafn27.htm
+0 3 0 4309 1 1
+/PAF/pafg18.htm
+0 8 0 102860 4 3
+/PAF/pafg29.htm
+0 11 0 203373 7 6
+/PAF/pafn04.htm
+0 5 0 75383 2 2
+/PAF/pafn15.htm
+0 3 0 8373 1 1
+/PAF/pafg06.htm
+0 18 0 424311 12 4
+/PAF/pafn26.htm
+0 2 8242823586544497198 3183 0 0
+/images/pedigr.jpg
+1 25 8029197281175535616 166032 0 0
+/PAF/pafg17.htm
+0 7 8543824 68336 4 3
+/PAF/pafn37.htm
+0 3 0 4257 0 1
+/PAF/images/home.jpg
+1 91 0 80269 0 0
+/PAF/pafg28.htm
+0 13 0 195819 8 7
+/PAF/pafn03.htm
+0 8 0 93914 5 5
+/PAF/pafg39.htm
+0 14 0 162997 10 8
+/PAF/pafg05.htm
+0 15 0 219192 9 4
+/PAF/pafn25.htm
+0 1 0 2435 0 0
+/images/LudlowEng.jpg
+1 21 0 312980 0 0
+/PAF/pafg16.htm
+0 14 0 186941 11 3
+/PAF/ludlowfam.ged
+0 25 0 8191663 0 0
+/PAF/pafg27.htm
+0 8 0 39663 6 4
+/PAF/pafn02.htm
+0 8 0 241053 3 4
+/PAF/images/start.jpg
+1 75 0 68058 0 0
+/PAF/pafg38.htm
+0 9 0 122147 4 1
+/PAF/pafn13.htm
+0 3 0 3126 2 1
+/images/Ludlowfam.jpg
+1 25 0 503206 0 0
+/PAF/pafg04.htm
+0 13 0 339129 6 4
+/PAF/pafg49.htm
+0 9 0 124638 5 3
+/PAF/pafn24.htm
+0 2 0 3085 0 1
+/PAF/pafg15.htm
+0 10 0 156816 5 1
+/PAF/pafn35.htm
+0 9 0 2802 8 5
+/PAF/pafg26.htm
+0 10 0 134426 5 3
+/PAF/pafn01.htm
+0 8 0 42892 2 2
+/PAF/pafg37.htm
+0 14 0 165172 9 5
+/PAF/pafn12.htm
+0 5 0 136413 2 2
+/PAF/pafx3.htm
+0 59 0 14039092 41 15
+/PAF/pafg03.htm
+0 24 0 710317 15 10
+/PAF/pafg48.htm
+0 13 0 144626 8 4
+/PAF/pafc09.htm
+0 3 0 15457 2 2
+/PAF/pafn23.htm
+0 2 0 3675 2 1
+/PAF/pafg14.htm
+0 18 0 322151 11 7
+/PAF/pafg59.htm
+0 10 0 146692 4 3
+/PAF/pafn34.htm
+0 4 0 6107 2 1
+/PAF/pafg25.htm
+0 5 0 60396 2 1
+/PAF/pafn45.htm
+0 4 0 5057 2 3
+/images/ludcastle.jpg
+1 12 0 114851 0 0
+/PAF/pafg36.htm
+0 14 0 177605 11 7
+/PAF/pafn11.htm
+0 2 0 14535 0 0
+/PAF/pafx2.htm
+0 20 0 657164 8 6
+/PAF/pafg02.htm
+0 22 0 553880 12 4
+/PAF/pafg47.htm
+0 5 0 59860 2 1
+/PAF/pafc08.htm
+0 4 0 9319 2 2
+/PAF/pafg13.htm
+0 11 0 160536 4 5
+/PAF/pafg58.htm
+0 10 0 141253 7 6
+/PAF/pafg24.htm
+0 9 0 107927 6 4
+/PAF/pafg69.htm
+0 10 0 123625 4 6
+/PAF/pafg35.htm
+0 10 0 147258 6 5
+/PAF/pafn10.htm
+0 3 0 21854 0 0
+/PAF/pafg01.htm
+0 26 0 123955 12 6
+/PAF/pafg46.htm
+0 6 0 66072 3 2
+/PAF/pafc07.htm
+0 4 0 14371 2 2
+/PAF/pafn21.htm
+0 2 0 4635 1 1
+/PAF/pafg12.htm
+0 12 0 330271 7 4
+/PAF/pafg57.htm
+0 8 0 58240 5 2
+/PAF/pafg23.htm
+0 15 0 166391 10 11
+/PAF/pafg68.htm
+0 8 0 71776 6 3
+/PAF/pafg34.htm
+0 11 0 123714 6 3
+/PAF/pafg45.htm
+0 6 0 75249 3 2
+/PAF/pafc06.htm
+0 4 0 10784 2 2
+/PAF/pafn20.htm
+0 4 0 16149 2 1
+/PAF/pafg11.htm
+0 24 0 385030 15 11
+/PAF/pafg56.htm
+0 10 0 104858 5 6
+/PAF/pafg22.htm
+0 13 0 224738 8 5
+/PAF/pafg67.htm
+0 9 0 116564 6 2
+/index_files/LUDLOW name.pdf
+0 81 0 11882069 0 0
+/index_files/contact.html
+0 36 0 93416 14 11
+/PAF/pafg33.htm
+0 10 0 139573 4 2
+/index_files/history.html
+0 37 0 176219 15 9
+/PAF/pafg44.htm
+0 15 0 186601 8 8
+/PAF/pafc05.htm
+0 4 0 15512 3 2
+/PAF/images/prev.jpg
+1 74 0 68940 0 0
+/PAF/pafg10.htm
+0 13 0 196217 6 3
+/PAF/pafg55.htm
+0 9 0 96492 6 3
+/PAF/pafn30.htm
+0 6 0 7108 2 4
+/PAF/pafg21.htm
+0 14 0 234382 7 8
+/PAF/pafg66.htm
+0 11 0 121230 8 4
+/images/ludshield.jpg
+1 12 0 115973 0 0
+/PAF/pafg32.htm
+0 9 0 113238 4 2
+/images/networking.jpg
+1 31 0 212419 0 0
+/PAF/pafg43.htm
+0 9 0 94184 5 3
+/PAF/pafc04.htm
+0 5 0 36259 4 2
+/index_files/Ludlows of Shipton-Moyne.pdf
+0 22 0 660831 0 0
+/PAF/pafg54.htm
+0 10 0 78157 6 5
+/PAF/pafg20.htm
+0 14 0 170926 8 9
+/PAF/pafg65.htm
+0 4 0 32787 1 3
+/PAF/images/next.jpg
+1 78 0 72188 0 0
+/PAF/pafg31.htm
+0 8 0 104979 4 4
+/PAF/pafn51.htm
+0 6 8576864 3571 5 5
+/index_files/links.html
+0 35 0 90516 15 8
+/PAF/pafg42.htm
+0 12 0 196208 7 7
+/PAF/pafc03.htm
+0 9 0 82156 8 5
+/PAF/pafg53.htm
+0 9 0 72470 5 3
+/PAF/pafc14.htm
+0 5 0 8439 3 3
+/PAF/pafg64.htm
+0 9 0 105928 5 3
+/PAF/pafg30.htm
+0 8 0 133686 4 1
+/PAF/pafg41.htm
+0 6 0 47122 3 1
+/PAF/pafc02.htm
+0 6 0 42026 3 2
+/PAF/pafg52.htm
+0 7 0 82501 4 4
+/index_files/pedigrees.html
+0 38 0 107916 11 7
+/images/nav_gap.gif
+1 103 0 32023 0 0
+/PAF/pafg63.htm
+0 7 0 93291 5 3
+/PAF/pafn09.htm
+0 5 0 17827 2 3
+/PAF/images/end.jpg
+1 77 0 72454 0 0
+/PAF/pafg40.htm
+0 10 0 111045 4 5
+/PAF/pafc01.htm
+0 6 0 8031 2 2
+/PAF/pafg51.htm
+0 16 0 206609 13 6
+/PAF/pafg62.htm
+0 13 0 142711 8 7
+/PAF/pafn08.htm
+0 4 0 37565 1 2
+/PAF/pafn19.htm
+0 3 0 2684 2 1
+/PAF/pafg50.htm
+0 9 0 89329 6 5
+/PAF/pafc11.htm
+0 6 0 21653 3 2
+/PAF/pafg61.htm
+0 8 0 83366 3 4
+/images/famtree.jpg
+1 26 0 255211 0 0
+/PAF/pafn07.htm
+0 3 0 15398 1 1
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-207-46-199-31.search.msn.com
+0 1 1 13565 1 1298092912
+/PAF/pafg39.htm
+199.19.249.196
+0 1 1 2943 1 1296642329
+/
+static-88.131.106.7.addr.tdc.se
+0 1 0 444 0 0
+-
+119.63.196.123
+0 1 0 444 0 0
+-
+spider05.yandex.ru
+0 121 77 1762327 89 1298380318
+/PAF/pafg54.htm
+h75-100-220-107.lncswi.dsl.dynamic.tds.net
+0 1 0 479 0 0
+-
+cache-ntc-ac01.proxy.aol.com
+0 1 0 426 0 0
+-
+msnbot-207-46-199-40.search.msn.com
+0 5 0 1485 3 1297707042
+/PAF/pafg17.htm
+157.55.16.229
+0 3 0 830 2 1298316507
+/PAF/pafg20.htm
+aa.6b.2d.static.xlhost.com
+0 31 30 1054375 1 1297566827
+/PAF/pafg16.htm
+rrcs-184-74-40-150.nys.biz.rr.com
+0 4 3 272458 1 1297026803
+/PAF/pafx3.htm
+24.49.147.100
+0 5 0 2394 0 0
+-
+host86-150-238-183.range86-150.btcentralplus.com
+0 10 8 305087 1 1297530018
+/PAF/pafx3.htm
+c-24-4-172-224.hsd1.ca.comcast.net
+0 8 7 24758 1 1297216283
+/PAF/pafg09.htm
+lj910140.crawl.yahoo.net
+0 4 0 1776 0 0
+-
+92.be.1343.static.theplanet.com
+0 1 1 43440 0 0
+-
+msnbot-157-55-50-76.search.msn.com
+0 2 0 964 0 0
+-
+colo-69-172-133-126.pilosoft.com
+0 1 1 60091 0 0
+-
+msnbot-207-46-13-88.search.msn.com
+0 8 0 2623 4 1298034566
+/PAF/pafg15.htm
+msnbot-65-52-110-29.search.msn.com
+0 2 0 656 1 1297316081
+/PAF/pafg57.htm
+msnbot-207-46-13-137.search.msn.com
+0 2 1 5634 1 1298057216
+/PAF/pafn07.htm
+c-76-123-145-149.hsd1.ms.comcast.net
+0 1 0 479 0 0
+-
+157.128.218.206
+0 8 8 52343 1 1297645953
+/PAF/pafn06.htm
+msnbot-207-46-195-212.search.msn.com
+0 1 1 27682 1 1297169027
+/PAF/pafg02.htm
+c-69-247-48-155.hsd1.fl.comcast.net
+0 4 3 272459 1 1297023965
+/PAF/pafx3.htm
+sticker00.yandex.ru
+0 60 40 127262 10 1298388479
+/
+spider11.mail.ru
+0 105 101 2515691 1 1296781552
+/PAF/pafn12.htm
+ip-118-90-80-134.xdsl.xnet.co.nz
+0 12 9 53041 1 1296796279
+/PAF/pafn11.htm
+ip-61-14-184-186.asianetcom.net
+0 1 1 14327 1 1297280304
+/PAF/pafg44.htm
+110.82.32.202
+0 4 4 271977 1 1297691127
+/PAF/pafx3.htm
+109.120.144.247.addr.datapoint.ru
+0 3 0 1533 3 1296948803
+-
+msnbot-207-46-204-165.search.msn.com
+0 1 1 14569 1 1297033906
+/PAF/pafg67.htm
+pool-108-11-48-209.atclnj.east.verizon.net
+0 2 1 3349 1 1298303801
+/
+msnbot-65-52-110-56.search.msn.com
+0 2 0 656 1 1297785651
+/PAF/pafg64.htm
+murray110.lnk.telstra.net
+0 4 3 272459 1 1297253953
+/PAF/pafx3.htm
+msnbot-65-52-51-180.search.msn.com
+0 2 0 964 0 0
+-
+msnbot-207-46-195-230.search.msn.com
+0 6 0 1968 3 1298320468
+/PAF/pafg02.htm
+msnbot-207-46-13-44.search.msn.com
+0 1 0 174 1 1297093048
+/PAF/pafg37.htm
+crawl2.dotnetdotcom.org
+0 139 124 2639449 14 1298321856
+/index_files/pedigrees.html
+ycar8.mobile.re3.yahoo.com
+0 2 1 5540 1 1297974000
+/PAF/pafg01.htm
+cpe001d7e38838f-cm0011e6eca59c.cpe.net.cable.rogers.com
+0 8 7 20664 1 1297302683
+/PAF/pafg37.htm
+client.schoolsfirstfcu.org
+0 12 10 102084 1 1297788565
+/PAF/pafg09.htm
+cpc5-blac2-0-0-cust351.pres.cable.virginmedia.com
+0 23 21 843677 0 0
+-
+msnbot-65-52-108-12.search.msn.com
+0 2 0 656 1 1297347022
+/PAF/pafg05.htm
+78.150.192.179
+0 8 7 19341 1 1296592872
+/PAF/pafg36.htm
+76.210.74.84
+0 9 7 26379 1 1298055556
+-
+msnbot-207-46-13-53.search.msn.com
+0 2 0 656 1 1298226027
+/PAF/pafg51.htm
+ppp121-45-25-206.lns20.adl2.internode.on.net
+0 9 7 29479 1 1297484599
+-
+pool-96-243-159-202.tampfl.fios.verizon.net
+0 1 0 479 0 0
+-
+c-68-42-93-84.hsd1.mi.comcast.net
+0 2 0 958 0 0
+-
+baiduspider-220-181-108-100.crawl.baidu.com
+0 3 1 3175 3 1297301669
+/
+baiduspider-220-181-108-104.crawl.baidu.com
+0 2 1 3040 2 1297521608
+/
+baiduspider-220-181-108-108.crawl.baidu.com
+0 1 1 2905 1 1296665320
+/
+64.233.172.18
+0 2 2 1212 0 0
+-
+msnbot-207-46-12-240.search.msn.com
+0 2 0 656 1 1297419071
+/PAF/pafg29.htm
+msnbot-207-46-199-38.search.msn.com
+0 4 0 1312 2 1297960195
+/PAF/pafg18.htm
+msnbot-65-52-110-74.search.msn.com
+0 2 0 656 1 1297077296
+/PAF/pafg21.htm
+www1.wedehost.net
+0 8 1 6017 1 1297296786
+/
+65-100-148-151.hlrn.qwest.net
+0 1 0 479 0 0
+-
+cache-ntc-ac05.proxy.aol.com
+0 1 1 933 0 0
+-
+baiduspider-220-181-108-111.crawl.baidu.com
+0 2 1 3040 2 1298171338
+/
+71-36-82-200.slkc.qwest.net
+0 27 20 147449 1 1298153626
+/index_files/contact.html
+75-170-62-208.eugn.qwest.net
+0 40 31 491837 2 1298344478
+/PAF/pafg70.htm
+209.18.124.32
+0 5 5 346660 3 1298328479
+/PAF/pafx3.htm
+ycar2.mobile.re3.yahoo.com
+0 2 1 3312 1 1296591095
+/
+static-208-80-194-27.as13448.com
+0 3 3 8715 3 1298319097
+/
+95-24-27-198.broadband.corbina.ru
+0 1 1 2905 1 1297092071
+/
+msnbot-207-46-204-192.search.msn.com
+0 2 0 656 1 1297522824
+/PAF/pafg66.htm
+msnbot-207-46-199-47.search.msn.com
+0 4 0 1312 2 1297552872
+/PAF/pafg63.htm
+dsl-209-105-191-82.fairpoint.net
+0 3 0 1437 0 0
+-
+baiduspider-220-181-108-122.crawl.baidu.com
+0 1 1 2885 1 1296520255
+/index_files/links.html
+97-93-16-218.dhcp.snlo.ca.charter.com
+0 1 1 697468 0 0
+-
+msnbot-65-52-110-92.search.msn.com
+0 2 0 656 1 1298148386
+/PAF/pafg22.htm
+server2.hostpoint.ch
+0 1 1 2905 1 1297805789
+/
+ip70-174-160-241.dc.dc.cox.net
+0 22 4 63971 2 1296703315
+/PAF/pafg01.htm
+crawl10.exabot.com
+0 8 4 15955 4 1298198826
+/
+ec2-75-101-240-54.compute-1.amazonaws.com
+0 6 5 17436 5 1296624771
+/index_files/pedigrees.html
+baiduspider-220-181-108-144.crawl.baidu.com
+0 1 1 941 0 0
+-
+173-22-23-93.client.mchsi.com
+0 4 0 1916 0 0
+-
+baiduspider-220-181-108-148.crawl.baidu.com
+0 1 1 918 0 0
+-
+95-28-144-109.broadband.corbina.ru
+0 1 1 2905 1 1297744773
+/
+msnbot-207-46-204-200.search.msn.com
+0 1 1 15498 1 1297248466
+/PAF/pafg33.htm
+63-225-233-82.slkc.qwest.net
+0 1 0 483 0 0
+-
+baiduspider-220-181-108-151.crawl.baidu.com
+0 1 1 298 0 0
+-
+ip4daa4d16.direct-adsl.nl
+0 9 7 23243 1 1296651976
+-
+nobody.nebo.edu
+0 8 7 24319 1 1297461759
+/PAF/pafg16.htm
+95-27-229-191.broadband.corbina.ru
+0 1 1 2905 1 1296708948
+/
+cpe-174-103-214-21.new.res.rr.com
+0 1 0 479 0 0
+-
+msnbot-207-46-199-43.search.msn.com
+0 4 0 1312 2 1298227496
+/PAF/pafg40.htm
+m3b2736d0.tmodns.net
+0 5 5 18548 1 1298349569
+/PAF/pafg49.htm
+dh114.public.mod.uk
+0 1 1 979 0 0
+-
+msnbot-65-52-51-178.search.msn.com
+0 2 0 964 0 0
+-
+161.28.107.20
+0 11 8 46144 1 1297704703
+/PAF/pafg22.htm
+75-169-158-93.slkc.qwest.net
+0 8 7 17809 1 1298254274
+/PAF/pafg66.htm
+c-24-19-136-115.hsd1.wa.comcast.net
+0 8 7 31226 1 1296861029
+/PAF/pafg08.htm
+ec2-184-73-107-162.compute-1.amazonaws.com
+0 1 0 422 0 0
+-
+bthnggts204-dmz.mycingular.net
+0 8 7 25650 1 1298072649
+/PAF/pafg22.htm
+166-70-222-64.ip.xmission.com
+0 8 7 30643 1 1298177830
+/PAF/pafg06.htm
+msnbot-207-46-12-238.search.msn.com
+0 3 1 60785 1 1296571345
+/PAF/pafg15.htm
+msnbot-207-46-195-105.search.msn.com
+0 6 0 1968 3 1297910366
+/PAF/pafc02.htm
+8.21.4.254
+0 1 1 24957 1 1298177829
+/PAF/pafg06.htm
+cache-ntc-ab01.proxy.aol.com
+0 1 1 916 0 0
+-
+cpe-121-214-138-132.lnse3.lon.bigpond.net.au
+0 8 7 25556 1 1296525100
+/PAF/pafg05.htm
+pool-71-187-143-183.nwrknj.east.verizon.net
+0 1 0 479 0 0
+-
+crawl-66-249-71-193.googlebot.com
+0 191 75 2983869 103 1298315295
+/PAF/pafg55.htm
+119.63.192.143
+0 2 2 631263 1 1297311870
+/PAF/pafg44.htm
+msnbot-207-46-195-224.search.msn.com
+0 1 0 173 1 1296825923
+/
+71-87-79-168.dhcp.mrqt.mi.charter.com
+0 1 0 479 0 0
+-
+70.236.77.48
+0 1 0 479 0 0
+-
+msnbot-207-46-204-229.search.msn.com
+0 2 0 656 1 1296640464
+/PAF/pafg01.htm
+adsl-074-166-048-234.sip.asm.bellsouth.net
+0 1 0 479 0 0
+-
+msnbot-157-55-50-75.search.msn.com
+0 3 0 1446 0 0
+-
+msnbot-207-46-195-233.search.msn.com
+0 2 0 656 1 1297963766
+/PAF/pafg45.htm
+msnbot-207-46-13-47.search.msn.com
+0 2 0 656 1 1296824090
+/PAF/pafg44.htm
+host86-153-122-116.range86-153.btcentralplus.com
+0 74 53 2647978 1 1297097306
+/index_files/links.html
+69.28.58.21
+0 2 1 3349 1 1296949264
+/
+69.28.58.25
+0 2 1 3349 1 1297834006
+/
+msnbot-207-46-13-136.search.msn.com
+0 2 0 656 1 1296598772
+/PAF/pafg32.htm
+msnbot-207-46-204-177.search.msn.com
+0 2 1 697950 0 0
+-
+msnbot-65-52-110-68.search.msn.com
+0 7 0 2142 4 1298037692
+/PAF/pafg14.htm
+baiduspider-220-181-108-99.crawl.baidu.com
+0 2 1 3040 2 1298038781
+/
+212.113.37.106
+0 2 1 3311 1 1298086850
+/
+ycar1.mobile.sp1.yahoo.com
+0 2 1 3312 1 1297031589
+/
+msnbot-157-55-50-13.search.msn.com
+0 2 0 964 0 0
+-
+msnbot-65-52-110-77.search.msn.com
+0 2 0 656 1 1298314256
+/PAF/pafg08.htm
+69.90.190.149
+0 2 2 5810 1 1296766209
+/
+65-102-187-209.tukw.qwest.net
+0 1 0 479 0 0
+-
+pool-173-62-246-72.phlapa.fios.verizon.net
+0 1 1 697468 0 0
+-
+ec2-72-44-51-71.compute-1.amazonaws.com
+0 1 0 422 0 0
+-
+msnbot-65-52-109-61.search.msn.com
+0 2 1 7753 1 1297908392
+/PAF/pafc04.htm
+242-143-92-64.skybeam.com
+0 2 0 957 0 0
+-
+dh208.public.mod.uk
+0 1 1 36504 1 1297700479
+/PAF/pafx2.htm
+68-113-163-151.dhcp.plbg.ny.charter.com
+0 1 0 479 0 0
+-
+msnbot-65-52-110-55.search.msn.com
+0 2 0 655 1 1297724512
+/
+msnbot-207-46-194-73.search.msn.com
+0 3 2 19641 1 1296547737
+/PAF/pafg20.htm
+hosted-by.leaseweb.com
+0 8 8 25697 2 1297067066
+/index_files/contact.html
+dh111.public.mod.uk
+0 1 1 270662 1 1297700546
+/PAF/pafx3.htm
+69.13.39.43
+0 1 1 2886 1 1298112768
+/
+baiduspider-220-181-108-103.crawl.baidu.com
+0 2 1 3040 2 1298289287
+/
+static-88.131.106.5.addr.tdc.se
+0 2 1 261084 1 1296576633
+/PAF/pafx3.htm
+baiduspider-220-181-108-107.crawl.baidu.com
+0 1 1 2905 1 1298129726
+/
+pool-173-79-162-231.washdc.fios.verizon.net
+0 3 2 23003 1 1297432967
+/PAF/pafn06.htm
+198-199-137-216.mtaonline.net
+0 8 7 24762 1 1297799209
+/PAF/pafg09.htm
+msnbot-207-46-13-132.search.msn.com
+0 2 0 656 1 1298004087
+/PAF/pafg09.htm
+63-248-80-35.static.sdyl010.digis.net
+0 8 7 26100 1 1297845623
+/PAF/pafg22.htm
+119.63.196.4
+0 1 0 444 0 0
+-
+msnbot-207-46-12-24.search.msn.com
+0 1 1 13234 1 1298133472
+/PAF/pafg64.htm
+74.125.44.84
+0 1 0 426 0 0
+-
+baiduspider-220-181-108-110.crawl.baidu.com
+0 4 3 8850 4 1297776676
+/
+baiduspider-220-181-108-114.crawl.baidu.com
+0 1 1 5464 1 1296520263
+/index_files/history.html
+baiduspider-220-181-108-118.crawl.baidu.com
+0 3 2 36038 3 1298199773
+/PAF/pafg12.htm
+msnbot-207-46-13-101.search.msn.com
+0 4 0 1312 2 1297121942
+/PAF/pafg54.htm
+msnbot-207-46-13-141.search.msn.com
+0 2 0 655 1 1298179168
+/
+msnbot-207-46-199-37.search.msn.com
+0 4 0 1003 3 1296802588
+/PAF/pafg40.htm
+baiduspider-220-181-108-121.crawl.baidu.com
+0 2 1 3040 2 1298234974
+/
+dh212.public.mod.uk
+0 1 1 973 0 0
+-
+static.153.124.40.188.clients.your-server.de
+0 5 1 4711 1 1297555232
+-
+crawl-66-249-71-113.googlebot.com
+0 56 21 464358 22 1298405975
+/PAF/pafg70.htm
+ip68-9-108-129.ri.ri.cox.net
+0 11 9 95310 1 1298083411
+/index_files/history.html
+const.02.lon.barefruit.co.uk
+0 1 1 2885 1 1297097334
+/index_files/links.html
+msnbot-65-55-55-206.search.msn.com
+0 6 5 17546 1 1297829720
+/index_files/contact.html
+sticker01.yandex.ru
+0 23 19 65583 2 1297598469
+/index_files/pedigrees.html
+c-68-62-225-94.hsd1.fl.comcast.net
+0 1 0 479 0 0
+-
+msnbot-65-52-110-51.search.msn.com
+0 2 0 656 1 1298104105
+/PAF/pafg24.htm
+msnbot-207-46-199-55.search.msn.com
+0 2 0 656 1 1297296179
+/PAF/pafg47.htm
+m4b2736d0.tmodns.net
+0 3 2 2258 0 0
+-
+cpe-124-180-220-118.lns8.lon.bigpond.net.au
+0 10 8 45262 1 1298198527
+/PAF/pafg11.htm
+027865c2.bb.sky.com
+0 16 13 387740 1 1297371630
+/index_files/history.html
+174-126-83-232.cpe.cableone.net
+0 1 0 479 0 0
+-
+exchange.certainty.co.uk
+0 9 7 24802 1 1297795761
+/PAF/pafg16.htm
+cpe-71-67-160-240.insight.res.rr.com
+0 8 7 21260 1 1296521489
+/PAF/pafg49.htm
+client-81-107-140-138.midd.adsl.virginmedia.com
+0 5 5 14547 1 1298398542
+/
+bot3.linguee.com
+0 15 13 1248412 1 1298400208
+/PAF/pafn01.htm
+50.37.157.98
+0 5 3 2745 0 0
+-
+5.ovz.chicago.123systems.net
+0 6 3 10047 3 1297502845
+/
+ip68-97-122-49.ok.ok.cox.net
+0 14 0 6705 0 0
+-
+msnbot-207-46-199-185.search.msn.com
+0 1 0 482 0 0
+-
+157.55.17.103
+0 2 0 656 1 1297042636
+/PAF/pafg35.htm
+157.55.17.105
+0 2 0 656 1 1297089053
+/PAF/pafc03.htm
+pool-74-105-114-129.nwrknj.fios.verizon.net
+0 11 9 316176 1 1297985952
+/PAF/pafg14.htm
+baiduspider-220-181-108-154.crawl.baidu.com
+0 1 1 952 0 0
+-
+ycar6.mobile.re3.yahoo.com
+0 4 2 6624 2 1298416386
+/
+213.186.120.196.utel.net.ua
+0 10 9 61001 1 1296630789
+/index_files/pedigrees.html
+crawler5012.ask.com
+0 12 6 20094 6 1298402690
+/
+150.70.64.193
+0 8 6 613317 5 1298055721
+-
+74.125.154.84
+0 2 2 1212 0 0
+-
+74.125.154.85
+0 1 1 916 0 0
+-
+72.14.212.80
+0 1 1 922 0 0
+-
+weppsb02.northropgrumman.com
+0 14 13 437849 1 1297285284
+/PAF/pafg02.htm
+78-159-122-254.local
+0 1 0 502 1 1297041812
+-
+ycar3.mobile.re3.yahoo.com
+0 2 1 3312 1 1298295943
+/
+ec2-174-129-186-246.compute-1.amazonaws.com
+0 1 0 422 0 0
+-
+msnbot-65-52-109-59.search.msn.com
+0 2 0 656 1 1297766599
+/PAF/pafg11.htm
+host671420012130.direcway.com
+0 9 7 20650 1 1297636175
+/PAF/pafg67.htm
+tc-gw.exabot.com
+0 17 15 168882 1 1297427048
+/
+80.82.69.56
+0 4 4 11772 1 1296900621
+/
+64.251.52.100
+0 15 11 84592 1 1297965764
+-
+msnbot-207-46-195-227.search.msn.com
+0 2 0 655 1 1296589580
+/PAF/pafn19.htm
+106-183.reverse.ukhost4u.com
+0 2 2 5810 2 1297617939
+/
+cpe-121-219-127-43.lnse2.lon.bigpond.net.au
+0 10 8 29024 1 1296980047
+/PAF/pafc11.htm
+c-24-18-105-113.hsd1.wa.comcast.net
+0 1 0 479 0 0
+-
+99-103-205-114.lightspeed.rcsntx.sbcglobal.net
+0 14 14 48573 2 1297921762
+/PAF/pafg30.htm
+user3.hanesbi.net
+0 4 3 272459 1 1297787119
+/PAF/pafx3.htm
+216-160-234-226.slkc.qwest.net
+0 12 9 92954 1 1297037598
+/PAF/pafg02.htm
+somehost254.bluecoat.com
+0 1 1 136112 1 1297787118
+/PAF/pafx3.htm
+cache-ntc-ab09.proxy.aol.com
+0 1 1 922 0 0
+-
+msnbot-65-52-49-141.search.msn.com
+0 4 0 1928 0 0
+-
+msnbot-207-46-13-139.search.msn.com
+0 2 0 656 1 1297303587
+/PAF/pafg25.htm
+67-40-149-88.hlrn.qwest.net
+0 7 7 18855 1 1297136894
+/PAF/pafg36.htm
+msnbot-207-46-13-99.search.msn.com
+0 4 0 1312 2 1298198395
+/PAF/pafn01.htm
+74-46-190-108.dsl2.mond.mn.frontiernet.net
+0 9 7 31127 1 1298083658
+/PAF/pafg06.htm
+72.14.202.83
+0 1 1 279 0 0
+-
+72.14.202.85
+0 1 1 15054 1 1297415034
+/PAF/pafn04.htm
+static-208-80-194-36.as13448.com
+0 2 2 5810 2 1296903053
+/
+static.10.97.46.78.clients.your-server.de
+0 2 2 5782 2 1296741157
+/index_files/contact.html
+ec2-204-236-211-159.compute-1.amazonaws.com
+0 1 1 17175 1 1297385858
+/PAF/pafg51.htm
+cpe-58-164-122-229.lnse4.win.bigpond.net.au
+0 53 23 246715 1 1296620455
+/index_files/history.html
+ec2-184-73-85-205.compute-1.amazonaws.com
+0 1 0 422 0 0
+-
+124.115.6.10
+0 3 0 1446 0 0
+-
+msnbot-207-46-204-158.search.msn.com
+0 1 1 5171 1 1297965668
+/PAF/pafg01.htm
+ip174-65-22-33.sd.sd.cox.net
+0 9 7 26038 1 1298063461
+/PAF/pafg05.htm
+c114-76-38-159.eburwd4.vic.optusnet.com.au
+0 12 8 293658 1 1298105921
+/PAF/pafg19.htm
+msnbot-207-46-12-154.search.msn.com
+0 1 1 2839 1 1298390054
+/index_files/contact.html
+109.246.233.112
+0 37 21 155733 1 1297952240
+/PAF/pafg69.htm
+pool-96-255-104-72.washdc.fios.verizon.net
+0 69 66 1274176 1 1297205835
+/PAF/pafx3.htm
+static-88.131.106.4.addr.tdc.se
+0 1 1 5133 1 1297569450
+/PAF/pafg01.htm
+avr04.yandex.net
+0 7 6 74055 1 1298386662
+/
+cs92220.pp.htv.fi
+0 16 10 170648 1 1296923641
+/PAF/pafx.htm
+74.125.75.4
+0 2 0 844 0 0
+-
+124.115.0.141
+0 11 11 32373 11 1298414641
+/
+124.115.0.142
+0 14 14 41202 14 1298220149
+/
+msnbot-207-46-13-46.search.msn.com
+0 3 0 830 2 1297578522
+/PAF/pafg33.htm
+b3090902.crawl.yahoo.net
+0 9 5 18866 5 1297843716
+/index_files/contact.html
+msnbot-207-46-13-86.search.msn.com
+0 2 0 656 1 1298066996
+/PAF/pafg60.htm
+cache-ntc-ac03.proxy.aol.com
+0 1 1 279 0 0
+-
+nat71.mia.three.co.uk
+0 9 6 75032 1 1296642329
+/
+167.225.107.17
+0 12 12 132664 1 1297361017
+/PAF/pafn03.htm
+58.121.26.207
+0 10 8 41099 1 1297747855
+/PAF/pafg18.htm
+cpe-24-168-50-143.hvc.res.rr.com
+0 10 10 868325 0 0
+-
+dsl.dynamic8597112108.ttnet.net.tr
+0 1 0 479 0 0
+-
+cpe-72-190-71-225.tx.res.rr.com
+0 2 0 958 0 0
+-
+c-71-59-231-178.hsd1.wa.comcast.net
+0 1 0 479 0 0
+-
+cpc1-perr12-2-0-cust141.perr.cable.virginmedia.com
+0 3 2 11078 1 1296586634
+/PAF/pafc03.htm
+msnbot-157-55-50-12.search.msn.com
+0 3 0 1446 0 0
+-
+imparser11.yandex.ru
+0 52 4 16832 0 0
+-
+38.127.197.105
+0 52 51 832514 1 1298038909
+/PAF/pafg36.htm
+203.24.148.50
+0 42 42 65562 6 1297741011
+/
+c-24-6-145-228.hsd1.ca.comcast.net
+0 1 0 479 0 0
+-
+dh108.public.mod.uk
+0 2 2 28017 1 1297700434
+/PAF/pafg02.htm
+msnbot-207-46-12-211.search.msn.com
+0 1 1 15257 1 1297159166
+/PAF/pafg38.htm
+cpe-24-167-8-65.rgv.res.rr.com
+0 1 0 479 0 0
+-
+124.115.0.171
+0 28 28 82404 28 1298373520
+/
+msnbot-207-46-199-49.search.msn.com
+0 4 0 1312 2 1297620765
+/PAF/pafg19.htm
+cpe-124-181-99-191.vic.bigpond.net.au
+0 1 0 483 0 0
+-
+74.125.112.83
+0 2 2 1832 0 0
+-
+74.125.112.85
+0 2 2 18453 1 1297530208
+/PAF/pafg34.htm
+74.125.112.86
+0 1 1 914 0 0
+-
+74.125.112.87
+0 1 1 922 0 0
+-
+193.35.132.148
+0 1 1 270662 1 1297947098
+/PAF/pafx3.htm
+baiduspider-220-181-108-106.crawl.baidu.com
+0 1 1 2905 1 1297102495
+/
+msnbot-65-52-110-14.search.msn.com
+0 2 0 656 1 1297574411
+/PAF/pafg38.htm
+msnbot-207-46-199-179.search.msn.com
+0 1 0 482 0 0
+-
+msnbot-65-52-110-54.search.msn.com
+0 2 0 655 1 1297996945
+/
+173-31-120-31.client.mchsi.com
+0 2 0 958 0 0
+-
+msnbot-207-46-13-42.search.msn.com
+0 2 0 656 1 1297698055
+/PAF/pafg67.htm
+msnbot-65-52-49-139.search.msn.com
+0 5 0 2410 0 0
+-
+baiduspider-220-181-108-113.crawl.baidu.com
+0 1 0 135 1 1296822529
+/
+74.125.75.17
+0 6 6 294617 2 1297710516
+/PAF/pafx3.htm
+89.126.32.137
+0 1 1 132314 0 0
+-
+baiduspider-220-181-108-117.crawl.baidu.com
+0 2 2 20821 2 1298060326
+/PAF/pafg28.htm
+75-172-111-75.tukw.qwest.net
+0 3 3 271976 1 1297956964
+/PAF/pafx3.htm
+msnbot-65-52-110-23.search.msn.com
+0 2 0 656 1 1296851714
+/PAF/pafx2.htm
+msnbot-207-46-13-131.search.msn.com
+0 2 0 656 1 1297028818
+/PAF/pafg69.htm
+150.70.75.31
+0 6 6 163930 3 1297938821
+/PAF/pafg09.htm
+209.51.153.38
+0 1 1 2905 1 1297053203
+/
+msnbot-207-46-13-51.search.msn.com
+0 4 0 1311 2 1298192305
+/index_files/links.html
+88.243.131.111
+0 6 5 165369 0 0
+-
+dh112.public.mod.uk
+0 1 1 990 0 0
+-
+baiduspider-220-181-108-120.crawl.baidu.com
+0 2 1 3040 2 1297944410
+/
+static-208-80-194-30.as13448.com
+0 1 1 2905 1 1297165526
+/
+b3091135.crawl.yahoo.net
+0 283 238 6923828 187 1298416739
+/
+msnbot-65-52-110-32.search.msn.com
+0 2 0 655 1 1297284691
+/
+msnbot-207-46-194-148.search.msn.com
+0 3 2 33652 1 1296694206
+/PAF/pafg03.htm
+msnbot-207-46-204-181.search.msn.com
+0 2 0 656 1 1297706026
+/PAF/pafg36.htm
+pool-71-126-13-206.bflony.east.verizon.net
+0 10 8 63405 1 1298311151
+/PAF/pafg06.htm
+156-56-14-16.dhcp-bl.indiana.edu
+0 10 6 75500 1 1296761237
+/
+ool-18ba1b3d.dyn.optonline.net
+0 1 0 479 0 0
+-
+67-58-209-11.amtelecom.net
+0 1 1 2905 1 1298090345
+/
+147.222.228.54
+0 4 0 1916 0 0
+-
+ec2-174-129-117-216.compute-1.amazonaws.com
+0 1 1 2905 1 1297809431
+/
+he190119.dsl.fsr.net
+0 6 6 76190 1 1297656760
+/PAF/pafg02.htm
+c-76-31-103-151.hsd1.tx.comcast.net
+0 4 4 2789872 0 0
+-
+ec2-174-129-163-216.compute-1.amazonaws.com
+0 1 0 422 0 0
+-
+99-28-131-3.lightspeed.gdrpmi.sbcglobal.net
+0 2 1 697950 0 0
+-
+pool-96-245-168-178.phlapa.fios.verizon.net
+0 2 0 957 0 0
+-
+ec2-204-236-226-210.compute-1.amazonaws.com
+0 2 1 19508 1 1298256334
+/PAF/pafg09.htm
+74.125.114.81
+0 1 1 279 0 0
+-
+c-67-166-14-115.hsd1.co.comcast.net
+0 9 7 23343 1 1297377182
+/PAF/pafg51.htm
+baiduspider-220-181-108-160.crawl.baidu.com
+0 1 1 933 0 0
+-
+96-35-80-210.dhcp.bycy.mi.charter.com
+0 1 0 479 0 0
+-
+static-208-80-194-35.as13448.com
+0 2 2 5810 2 1297940240
+/
+msnbot-207-46-195-107.search.msn.com
+0 6 0 1967 3 1298352477
+/index_files/pedigrees.html
+ec2-184-73-46-97.compute-1.amazonaws.com
+0 1 0 422 0 0
+-
+74-36-73-210.dr01.dlta.ut.frontiernet.net
+0 1 0 479 0 0
+-
+static-71-168-44-35.hag.east.verizon.net
+0 1 0 479 0 0
+-
+msnbot-207-46-199-32.search.msn.com
+0 1 1 15867 1 1296997714
+/PAF/pafg19.htm
+s0106001676dfef6e.lb.shawcable.net
+0 27 20 467545 2 1297193603
+/PAF/pafx3.htm
+124.115.4.205
+0 17 17 50031 17 1298388430
+/
+cpe-24-58-235-113.twcny.res.rr.com
+0 10 8 33590 1 1298346256
+/PAF/pafg51.htm
+119.63.192.233
+0 1 1 270650 1 1297087925
+/PAF/pafx3.htm
+119.63.192.234
+0 1 1 15678 1 1297871115
+/PAF/pafg58.htm
+94.63.246.3
+0 1 0 456 1 1298327238
+-
+74.125.126.82
+0 1 1 914 0 0
+-
+74.125.126.83
+0 1 1 12066 1 1296792374
+/PAF/pafg66.htm
+c-24-56-219-216.customer.broadstripe.net
+0 4 3 272459 1 1296856559
+/PAF/pafx3.htm
+74.125.126.87
+0 1 1 899 0 0
+-
+chad.uiso.iu.edu
+0 26 15 130588 1 1298295247
+/index_files/contact.html
+216.104.15.130
+0 2 2 274243 2 1297325457
+/PAF/pafx3.htm
+msnbot-207-46-195-226.search.msn.com
+0 2 0 656 1 1297331050
+/PAF/pafg51.htm
+216.104.15.134
+0 1 1 270650 1 1297325416
+/PAF/pafx3.htm
+174-19-38-16.slkc.qwest.net
+0 23 16 1159670 1 1297506769
+/PAF/pafg01.htm
+ip72-223-46-136.ph.ph.cox.net
+0 11 9 55636 1 1298084444
+/PAF/pafg61.htm
+216.104.15.138
+0 3 2 34214 2 1297443085
+/PAF/pafg67.htm
+msnbot-207-46-199-50.search.msn.com
+0 4 1 698606 1 1297106926
+/PAF/pafg48.htm
+cache-ntc-aa09.proxy.aol.com
+0 1 1 914 0 0
+-
+static-208-80-194-29.as13448.com
+0 3 3 8715 3 1298192898
+/
+msnbot-207-46-199-201.search.msn.com
+0 1 0 482 0 0
+-
+msnbot-157-55-50-77.search.msn.com
+0 1 0 482 0 0
+-
+msnbot-207-46-195-235.search.msn.com
+0 7 0 2142 4 1297699449
+/PAF/pafg12.htm
+fmdt8-21.2wcm.comporium.net
+0 1 0 479 0 0
+-
+msnbot-65-52-49-140.search.msn.com
+0 4 0 1928 0 0
+-
+msnbot-207-46-13-138.search.msn.com
+0 2 0 656 1 1297603282
+/PAF/pafg46.htm
+226-223.speede.golden.net
+0 16 11 117071 1 1298253785
+/index_files/history.html
+150.70.172.101
+0 4 4 587592 4 1298356471
+/PAF/pafx3.htm
+adsl-19-129-236.jan.bellsouth.net
+0 2 0 958 0 0
+-
+cache-ntc-aa02.proxy.aol.com
+0 1 1 899 0 0
+-
+msnbot-207-46-13-98.search.msn.com
+0 2 0 656 1 1298043360
+/PAF/pafg03.htm
+ycar11.mobile.re3.yahoo.com
+0 2 1 271031 1 1296826309
+/PAF/pafx3.htm
+lj910152.crawl.yahoo.net
+0 4 4 11620 4 1298393303
+/
+spider-ntc-td04.proxy.aol.com
+0 1 1 32953 1 1297921569
+/PAF/pafg12.htm
+msnbot-207-46-204-188.search.msn.com
+0 4 0 1312 2 1298128496
+/index_files/history.html
+msnbot-207-46-195-213.search.msn.com
+0 1 1 12050 1 1298204335
+/PAF/pafg55.htm
+pool-71-126-16-252.bflony.east.verizon.net
+0 13 10 339311 1 1298233160
+/PAF/pafg04.htm
+89-178-151-142.broadband.corbina.ru
+0 7 6 73785 1 1297045388
+/
+186.17.100.94.inferno.name
+0 1 0 427 0 0
+-
+ec2-72-44-62-212.compute-1.amazonaws.com
+0 1 0 422 0 0
+-
+197.111-67-202.dynamic.dsl.mel.iprimus.net.au
+0 10 8 34988 1 1297806566
+/PAF/pafg26.htm
+c-174-52-163-121.hsd1.ut.comcast.net
+0 13 8 45958 1 1296698354
+-
+msnbot-207-46-12-122.search.msn.com
+0 2 2 33407 2 1298098379
+/PAF/pafg15.htm
+188-165-23-26.ovh.net
+0 1 1 7924 1 1298309055
+/PAF/pafn20.htm
+msnbot-207-46-195-231.search.msn.com
+0 8 0 2623 4 1298005645
+/PAF/pafg26.htm
+msnbot-207-46-13-45.search.msn.com
+0 6 0 1969 3 1297311592
+/PAF/pafx3.htm
+c-24-2-110-100.hsd1.ut.comcast.net
+0 14 12 133679 1 1296519481
+/PAF/pafg49.htm
+msnbot-207-46-13-85.search.msn.com
+0 2 0 656 1 1297336572
+/PAF/pafg62.htm
+dh210.public.mod.uk
+0 2 2 1927 0 0
+-
+msnbot-207-46-204-236.search.msn.com
+0 2 0 656 1 1298234697
+/PAF/pafg16.htm
+msnbot-65-52-110-26.search.msn.com
+0 2 0 656 1 1297201618
+/PAF/pafg10.htm
+msnbot-207-46-13-134.search.msn.com
+0 4 0 1311 2 1297875743
+/PAF/pafg02.htm
+h-96-110.scoutjet.com
+0 4 3 19268 1 1297571507
+/index_files/contact.html
+mail.gigablast.com
+0 2 1 3495 1 1297297632
+/index_files/pedigrees.html
+75-169-115-15.slkc.qwest.net
+0 8 7 20500 1 1297013369
+/PAF/pafg50.htm
+msnbot-65-52-108-13.search.msn.com
+0 2 0 656 1 1297752051
+/PAF/pafg56.htm
+msnbot-207-46-195-240.search.msn.com
+0 1 0 174 1 1297287998
+/PAF/pafg07.htm
+msnbot-207-46-13-54.search.msn.com
+0 2 0 656 1 1298110526
+/PAF/pafg10.htm
+msnbot-207-46-204-205.search.msn.com
+0 1 1 19224 1 1297177737
+/PAF/pafg11.htm
+msnbot-65-52-110-35.search.msn.com
+0 2 0 656 1 1297449023
+/PAF/pafg59.htm
+msnbot-207-46-13-143.search.msn.com
+0 6 1 906799 2 1298295449
+/PAF/pafg34.htm
+msnbot-157-55-50-11.search.msn.com
+0 3 0 1446 0 0
+-
+msnbot-207-46-204-184.search.msn.com
+0 1 0 174 1 1297337740
+/PAF/pafg16.htm
+msnbot-207-46-12-241.search.msn.com
+0 2 1 905488 0 0
+-
+220.181.94.230
+0 8 3 10609 3 1297946155
+/
+static-88.131.106.22.addr.tdc.se
+0 2 1 60535 0 0
+-
+baiduspider-220-181-108-101.crawl.baidu.com
+0 1 0 135 1 1297581483
+/
+69.63.181.248
+0 1 1 41250 1 1296856559
+/PAF/pafx3.htm
+www.whois.sc
+0 4 2 6698 2 1297983241
+/
+baiduspider-220-181-108-105.crawl.baidu.com
+0 1 1 2905 1 1297966270
+/
+baiduspider-220-181-108-109.crawl.baidu.com
+0 1 1 270650 1 1297543162
+/PAF/pafx3.htm
+msnbot-207-46-204-193.search.msn.com
+0 4 0 1312 2 1296895852
+/PAF/pafg08.htm
+msnbot-207-46-199-48.search.msn.com
+0 2 0 348 2 1297348691
+/PAF/pafg06.htm
+184-82-101-158.hostnoc.net
+0 1 1 2905 1 1296604223
+/
+baiduspider-220-181-108-112.crawl.baidu.com
+0 4 2 6080 4 1298085013
+/
+71-219-117-242.slkc.qwest.net
+0 9 7 19298 1 1296671803
+/PAF/pafg48.htm
+baiduspider-220-181-108-116.crawl.baidu.com
+0 1 1 2905 1 1296520248
+/
+hsi-kbw-109-193-141-010.hsi7.kabel-badenwuerttemberg.de
+0 2 1 3330 1 1298032418
+/
+66.87.8.125
+0 7 7 32882 1 1297466400
+/PAF/pafg02.htm
+147.222.235.152
+0 8 7 20663 1 1296758257
+/PAF/pafg37.htm
+msnbot-207-46-13-41.search.msn.com
+0 7 0 2142 4 1298203947
+/PAF/pafx3.htm
+baiduspider-220-181-108-123.crawl.baidu.com
+0 2 2 5706 2 1296918354
+/
+msnbot-207-46-204-171.search.msn.com
+0 1 1 13130 1 1297115605
+/PAF/pafg48.htm
+208-115-111-68-reverse.wowrack.com
+0 4 2 6622 2 1298368711
+/
+c-76-124-181-197.hsd1.pa.comcast.net
+0 8 7 33368 1 1298138118
+/PAF/pafg02.htm
+c-98-195-74-180.hsd1.tx.comcast.net
+0 5 0 2395 0 0
+-
+msnbot-207-46-204-241.search.msn.com
+0 2 0 656 1 1298281435
+/PAF/pafg41.htm
+msnbot-207-46-204-180.search.msn.com
+0 3 0 830 2 1298032317
+/PAF/pafg32.htm
+msnbot-65-52-110-71.search.msn.com
+0 1 0 174 1 1296977780
+/PAF/pafg53.htm
+69.58.178.56
+0 12 11 336957 1 1297069208
+/PAF/pafx3.htm
+72.14.194.49
+0 15 15 54429 2 1297636174
+/PAF/pafg67.htm
+64.77.243.95
+0 10 9 94824 1 1297093155
+/index_files/history.html
+msnbot-65-52-110-80.search.msn.com
+0 1 0 174 1 1297095982
+/PAF/pafg26.htm
+74.43.221.219
+0 2 0 958 0 0
+-
+baiduspider-123-125-71-108.crawl.baidu.com
+0 1 1 2905 1 1296923253
+/
+baiduspider-220-181-108-152.crawl.baidu.com
+0 1 1 935 0 0
+-
+msnbot-65-52-51-179.search.msn.com
+0 3 0 1446 0 0
+-
+static-208-80-194-28.as13448.com
+0 3 3 8715 3 1297557686
+/
+msnbot-207-46-195-229.search.msn.com
+0 4 0 1312 2 1298223055
+/PAF/pafg62.htm
+cpc7-stav15-2-0-cust210.aztw.cable.virginmedia.com
+0 1 0 479 0 0
+-
+pool-74-111-12-244.syrcny.fios.verizon.net
+0 2 1 3330 1 1296709039
+/
+msnbot-207-46-199-53.search.msn.com
+0 1 0 174 1 1296873951
+/PAF/pafg11.htm
+119.63.196.16
+0 1 0 444 0 0
+-
+dynamic-67-22-77-71.syban.net
+0 18 9 312125 1 1296618963
+/PAF/pafg21.htm
+173-10-25-142-busname-utah.ut.hfc.comcastbusiness.net
+0 10 8 38168 1 1298392963
+/PAF/pafg35.htm
+203.39.178.154
+0 24 19 397284 1 1297738640
+/index_files/links.html
+baiduspider-220-181-108-167.crawl.baidu.com
+0 1 1 2905 1 1296923260
+/
+adsl-67-123-19-80.dsl.bkfd14.pacbell.net
+0 1 1 29040 0 0
+-
+119.63.196.20
+0 2 0 888 0 0
+-
+client-86-23-110-57.brhm.adsl.virginmedia.com
+0 1 1 236 1 1296779319
+/
+119.63.196.29
+0 1 0 444 0 0
+-
+msnbot-207-46-12-239.search.msn.com
+0 2 0 656 1 1297132474
+/PAF/pafg30.htm
+blk-215-95-89.eastlink.ca
+0 8 7 15934 1 1298087769
+/PAF/pafg68.htm
+119.63.196.31
+0 1 0 444 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+spider05.yandex.ru
+0 7 3 18119 5 1298380318
+/PAF/pafg54.htm
+lj910140.crawl.yahoo.net
+0 1 0 444 0 0
+-
+sticker00.yandex.ru
+0 6 4 12726 1 1298388479
+/
+65-100-148-151.hlrn.qwest.net
+0 1 0 479 0 0
+-
+75-170-62-208.eugn.qwest.net
+0 20 16 95474 1 1298344478
+/PAF/pafg70.htm
+97-93-16-218.dhcp.snlo.ca.charter.com
+0 1 1 697468 0 0
+-
+baiduspider-220-181-108-144.crawl.baidu.com
+0 1 1 941 0 0
+-
+baiduspider-220-181-108-151.crawl.baidu.com
+0 1 1 298 0 0
+-
+m3b2736d0.tmodns.net
+0 5 5 18548 1 1298349569
+/PAF/pafg49.htm
+crawl-66-249-71-193.googlebot.com
+0 4 1 60961 0 0
+-
+crawl-66-249-71-113.googlebot.com
+0 5 1 21423 3 1298405975
+/PAF/pafg70.htm
+m4b2736d0.tmodns.net
+0 3 2 2258 0 0
+-
+client-81-107-140-138.midd.adsl.virginmedia.com
+0 5 5 14547 1 1298398542
+/
+bot3.linguee.com
+0 15 13 1248412 1 1298400208
+/PAF/pafn01.htm
+baiduspider-220-181-108-154.crawl.baidu.com
+0 1 1 952 0 0
+-
+ycar6.mobile.re3.yahoo.com
+0 2 1 3312 1 1298416386
+/
+crawler5012.ask.com
+0 2 1 3349 1 1298402690
+/
+msnbot-207-46-12-154.search.msn.com
+0 1 1 2839 1 1298390054
+/index_files/contact.html
+avr04.yandex.net
+0 7 6 74055 1 1298386662
+/
+124.115.0.141
+0 1 1 2943 1 1298414641
+/
+cpe-24-168-50-143.hvc.res.rr.com
+0 10 10 868325 0 0
+-
+imparser11.yandex.ru
+0 1 0 482 0 0
+-
+124.115.0.171
+0 1 1 2943 1 1298373520
+/
+b3091135.crawl.yahoo.net
+0 13 11 134039 9 1298416739
+/
+msnbot-207-46-195-107.search.msn.com
+0 2 0 655 1 1298352477
+/index_files/pedigrees.html
+124.115.4.205
+0 2 2 5886 2 1298388430
+/
+cpe-24-58-235-113.twcny.res.rr.com
+0 10 8 33590 1 1298346256
+/PAF/pafg51.htm
+150.70.172.101
+0 1 1 270650 1 1298356471
+/PAF/pafx3.htm
+lj910152.crawl.yahoo.net
+0 1 1 2905 1 1298393303
+/
+208-115-111-68-reverse.wowrack.com
+0 2 1 3311 1 1298368711
+/
+173-10-25-142-busname-utah.ut.hfc.comcastbusiness.net
+0 10 8 38168 1 1298392963
+/PAF/pafg35.htm
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 1995
+http://search.sky.com/web
+0 2
+http://www.ludlowfamilies.org/PAF/pafg50.htm
+1 6
+http://www.ludlowfamilies.org/PAF/pafg61.htm
+1 1
+http://query.us.kikin.com/query-server/K/Query/
+0 65
+http://www.google.com/m
+0 1
+http://verticalpigeon.com/
+0 1
+http://www.ludlowfamilies.org/index_files/links.html
+1 16
+http://www.google.co.uk/search
+0 5
+http://www.ludlowfamilies.org/PAF/pafg09.htm
+1 21
+http://www.molloy.org/molloybulletinboard.htm
+0 1
+http://www.dragonpress.net/samples.html
+0 2
+http://www.google.com.au/search
+0 4
+http://www.ludlowfamilies.org/PAF/pafg60.htm
+1 4
+http://www.ludlowfamilies.org/PAF/pafn06.htm
+1 1
+http://ludlowfamilies.org/
+1 6
+http://www.ludlowfamilies.org/PAF/pafg08.htm
+1 20
+http://www.google.co.uk/url
+0 3
+http://www.ludlowfamilies.org/PAF/pafg19.htm
+1 6
+http://www.google.com/search
+0 21
+http://www.ukgid.com/links/onenamestudiesk-o.html
+0 1
+http://www.ludlowfamilies.org/PAF/pafg70.htm
+1 16
+http://www.mehrkontakte.info/profiles/profil336.html
+0 1
+http://valeries.vipphoto.ch/
+0 1
+http://www.google.com/imgres
+0 1
+http://www.ludlowfamilies.org/PAF/pafg07.htm
+1 12
+http://www.ludlowfamilies.org/PAF/pafx3.htm
+1 35
+http://www.ludlowfamilies.org/PAF/pafg18.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg29.htm
+1 1
+http://www.yandex.ru/
+0 1
+http://www.google.nl/search
+0 1
+http://www.ludlowfamilies.org/PAF/pafg06.htm
+1 29
+http://myhealthcare.com
+0 1
+http://search.aol.com/aol/search
+0 1
+http://www.ludlowfamilies.org/PAF/pafx2.htm
+1 7
+http://www.ludlowfamilies.org/PAF/pafg17.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg28.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg39.htm
+1 1
+http://www.xxxportale.info/
+0 1
+http://www.ludlowfamilies.org/PAF/pafg05.htm
+1 27
+http://www.bing.com/search
+0 5
+http://www.ludlowfamilies.org/PAF/pafg16.htm
+1 30
+http://www.ludlowfamilies.org/PAF/pafg27.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafx.htm
+1 25
+http://yandex.ru/yandsearch
+0 4
+http://www.ludlowfamilies.org/PAF/pafg38.htm
+1 1
+http://www.ludlowfamilies.org/
+1 108
+http://www.ludlowfamilies.org/PAF/pafg04.htm
+1 8
+http://www.ludlowfamilies.org/PAF/pafg49.htm
+1 14
+http://www.ludlowfamilies.org/PAF/pafg15.htm
+1 4
+http://www.ludlowfamilies.org/PAF/pafg26.htm
+1 8
+http://ludlowfamilies.org/PAF/pafn04.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg37.htm
+1 14
+http://www.ludlowfamilies.org/PAF/pafg03.htm
+1 24
+http://www.ludlowfamilies.org/PAF/pafg48.htm
+1 22
+http://www.ludlowfamilies.org/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php
+1 3
+http://www.ludlowfamilies.org/PAF/pafg14.htm
+1 8
+http://www.ludlowfamilies.org/PAF/pafg59.htm
+1 1
+http://www.google.com/url
+0 22
+http://www.ludlowfamilies.org/PAF/pafg25.htm
+1 1
+http://www.facebook.com/l.php
+0 1
+http://www.ludlowfamilies.org/PAF/pafg36.htm
+1 13
+http://www.ficktreffen.info/forum/message65.html
+0 1
+http://www.ludlowfamilies.org/PAF/pafg02.htm
+1 36
+http://www.ludlowfamilies.org/PAF/pafg47.htm
+1 1
+http://www.ludlowfamilies.org
+1 1
+http://www.ludlowfamilies.org/PAF/pafg13.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg58.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg24.htm
+1 1
+LUDLOWFAMILIES.ORG/
+0 2
+http://www.ludlowfamilies.org/PAF/pafg35.htm
+1 1
+http://www.bing.com/images/search
+0 2
+http://www.ludlowfamilies.org/PAF/pafg01.htm
+1 31
+http://www.ludlowfamilies.org/PAF/pafg46.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg12.htm
+1 11
+http://www.ludlowfamilies.org/PAF/pafg57.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg23.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg68.htm
+1 14
+http://www.ludlowfamilies.org/PAF/pafg34.htm
+1 8
+http://www.ludlowfamilies.org/PAF/pafg45.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg11.htm
+1 16
+http://www.ludlowfamilies.org/PAF/pafg56.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg22.htm
+1 21
+http://www.ludlowfamilies.org/PAF/pafg67.htm
+1 6
+http://www.google.co.nz/url
+0 1
+http://www.google.com.au/url
+0 5
+http://www.ludlowfamilies.org/PAF/pafg33.htm
+1 11
+http://search.yahoo.com/search
+0 6
+http://www.ludlowfamilies.org/PAF/pafg44.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg10.htm
+1 10
+http://www.ludlowfamilies.org/PAF/pafg55.htm
+1 8
+http://www.ludlowfamilies.org/PAF/pafg21.htm
+1 2
+http://www.ludlowfamilies.org/PAF/pafg66.htm
+1 13
+http://www.ludlowfamilies.org/index_files/contact.html
+1 5
+http://www.ludlowfamilies.org/PAF/pafg32.htm
+1 3
+http://www.ludlowfamilies.org/index_files/history.html
+1 69
+http://www.ludlowfamilies.org/index.htm
+1 39
+http://www.ludlowfamilies.org/PAF/pafg43.htm
+1 7
+http://www.ludlowfamilies.org/index_files/LUDLOW name.pdf
+1 20
+http://www.ludlowfamilies.org/PAF/pafg54.htm
+1 1
+http://www.ludlowfamilies.org/index_files/pedigrees.html
+1 38
+http://www.ludlowfamilies.org/PAF/pafg20.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg31.htm
+1 1
+http://www.ancquest.com/submits.htm
+0 2
+http://www.ludlowfamilies.org/PAF/pafg42.htm
+1 8
+http://www.ludlowfamilies.org/PAF/pafc03.htm
+1 1
+http://search.mywebsearch.com/mywebsearch/GGmain.jhtml
+0 2
+http://www.google.com/m/search
+0 2
+http://www.girlsdeluxe18.info/bulletin/4567.html
+0 1
+http://www.ludlowfamilies.org/PAF/pafg53.htm
+1 6
+http://query.ie.kikin.com/query-server/K/Query/
+0 7
+http://www.ludlowfamilies.org/PAF/pafg30.htm
+1 14
+http://www.ludlowfamilies.org/PAF/pafg41.htm
+1 1
+http://www.google.com.tr/search
+0 1
+http://www.ludlowfamilies.org/PAF/pafg52.htm
+1 1
+http://www.ludlowfamilies.org/PAF/pafg63.htm
+1 8
+http://www.google.co.uk/m
+0 1
+http://www.google.ca/search
+0 2
+http://www.baidu.com/s
+0 1
+http://www.ludlowfamilies.org/PAF/pafg40.htm
+1 1
+http://whois.domaintools.com/ludlowfamilies.org
+1 2
+http://www.ludlowfamilies.org/PAF/pafg51.htm
+1 21
+http://www.ludlowfamilies.org/PAF/pafg62.htm
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727)
+1 1
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+0 7
+Python-urllib/2.4
+0 2
+YahooCacheSystem
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; MS-RTC EA 2; .NET 
+1 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+1 4
+Mozilla/4.0 (compatible;)
+1 18
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.98 Safari/534.13
+1 37
+Baiduspider+(+http://www.baidu.jp/spider/)
+0 4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8C148
+1 1
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+1 1
+ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)
+0 2
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+1 3
+Mozilla/5.0 (compatible; SiteBot/0.1; +http://www.sitebot.org/robot/)
+1 12
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; Zango 
+1 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+1 121
+Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 
+1 4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3
+1 2
+Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html)
+1 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{4212E7A5-FA4A-4B8A-A873-838AA675FAF6}; iebar; acc=ventura5; SV1)
+1 1
+Googlebot-Image/1.0
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729)
+1 36
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 AskTbFW-SRS/3.9.1.14019 Firefox/3.6.13 ( .NET CLR
+1 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; GTB6.6; FunWebProducts; SLCC1; .NET CLR 2.0.50727; Med
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ;ShopperReports
+1 9
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET C
+1 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; CMS Music Store2 v1.00.13 (Music Store,1033); .NET CLR 1.1
+1 1
+Mozilla
+2 520
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 49
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 AskTbFWV5/3.9.1.14019 Firefox/3.6.13 (.NET CLR 3.
+1 1
+Java/1.6.0_23
+0 31
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; FunWebProducts; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NE
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+1 18
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322)
+1 1
+Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots)
+1 83
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322)
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SearchToolbar 1.2; SLCC2; .NET CLR 2.0.50727; .NET CLR
+1 1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 2_2_1 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile
+1 2
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)
+1 1
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; FDM; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+1 42
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {64D6823C-EDC0-F4C1-21AF-3E2FA5736585})
+1 1
+BlackBerry8520/4.6.1.272 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/120
+0 2
+Mozilla/5.0 (en-us) AppleWebKit/525.13 (KHTML, like Gecko; Google Wireless Transcoder) Version/3.1 Safari/525.13
+1 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+1 9
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+1 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9
+1 8
+cmsworldmap.com
+0 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; FunWebProducts; SearchToolbar 1.1; GTB6.6; SIMBAR={0B2
+1 1
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.6.30 Version/10.62
+1 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-
+1 14
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+1 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.13) Gecko/20101203 AskTbSTK4/3.9.1.14019 Firefox/3.6.13 ( .NET CLR 3
+1 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR
+1 6
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 BRI/1 Firefox/3.6.13
+1 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2)
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 AskTbBCPA/3.9.1.14019 Firefox/3.6.13
+1 12
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+1 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0
+1 69
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SearchToolbar 1.2; GTB6.6; SLCC2; .NET CLR 2.0.50727; 
+1 1
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+1 52
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+1 5
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.3; ips-agent) Gecko/20090824 Fedora/1.0.7-1.1.fc4  Firefox/3.5.3
+1 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; ; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2
+1 24
+Mozilla/5.0 (compatible; spbot/3.0; +http://www.seoprofiler.com/bot )
+1 6
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; FunWebProducts; GTB6.5; SLCC1; .NET CLR 2.0.50727; Med
+1 8
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+1 6
+Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)
+1 52
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.94 Safari/534.13
+1 23
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.5; AOLBuild 4337.5401; Windows NT 5.1; GTB6.6; .NET CLR 1.0.3705; .NET CLR 1.1.4322;
+1 7
+ee://aol/http
+0 1
+Mozilla/5.0
+1 5
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)._
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+1 10
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; http://verticalpigeon.com/)
+1 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+1 10
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 227
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+1 3
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8 (.NET CLR 3.5.30729)
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+1 1
+Linguee Bot (http://www.linguee.com/bot; bot@linguee.com)
+0 15
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 
+1 23
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Tablet PC 1.7; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR
+1 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+1 24
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Alcatel-OT-606/1.0 model-orange Profile/MIDP-2.0 Configuration/CLDC-1.1 ObigoInternetBrowser/Q03C
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.16) Gecko/20101130 Firefox/3.5.16 GTB7.1 ( .NET CLR 3.5.30729)
+1 26
+Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 AskTbFWV5/3.9.1.14019 Firefox/3.6.13 ( .NET CLR 3
+1 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729)
+1 1
+Opera
+2 7
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+1 12
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; FunWebProducts; GTB6.6; .NET CLR 1.0.3705; .NET CLR 1.1.4322;
+1 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; ZangoToolbar 4.8.2; .NET CLR 1.1.4322)
+1 1
+Mozilla/5.0 (Linux; U; Android 2.2; en-us; SAMSUNG-SGH-I897/I897UCJI6 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Vers
+1 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.98 Safari/534.13
+1 16
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; GTB6.6; .NET CLR 1.0.3705; .NET CLR 1.1.4322;
+1 1
+AppEngine-Google; (+http://code.google.com/appengine; appid: steprep)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+1 7
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)
+1 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {32097F53-6273-E0DF-F762-609CF69E5D15}; .NET CLR 1.1.4322)
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1; IE
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30;
+1 12
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0C) 96
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC
+1 2
+Mozilla/5.0 (compatible; ScoutJet; +http://www.scoutjet.com/)
+1 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET 
+1 32
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+1 48
+Zeus 93791 Webster Pro V2.9 Win32
+0 5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19
+1 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.9 (KHTML, like Gecko) Version/4.0.3 Safari/531.9
+1 3
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+1 1
+Mozilla/5.0 (Linux; U; Android 1.5; en-us; MB200 Build/CUPCAKE) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile S
+1 8
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+1 8
+Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)
+1 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .N
+1 11
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 AskTbFWV5/3.9.1.14019 Firefox/3.6.13 GTB7.1
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+1 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; eSobiSubscriber 2.0.4.16; .NET CLR
+1 22
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 (.NET CLR 3.5.30729) PicMorphSearc
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.0
+1 15
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+1 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBAR={6DD38C0B-364B-4d2e-9C83-4D3FAA1D64A2}; .NET CLR 1.0.3705; .NE
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+1 69
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618
+1 8
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-1/051.018; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML
+1 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+1 10
+Sogou-Test-Spider/4.0 (compatible; MSIE 5.5; Windows 98)
+1 3
+Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (like Gecko) (Exabot-Thumbnails)
+1 17
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 ( .NET CLR 3.5.30729)
+1 9
+Mozilla/5.0 (en-us) AppleWebKit/525.13 (KHTML, like Gecko; Google Web Preview) Version/3.1 Safari/525.13
+1 24
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+1 4
+Xenu Link Sleuth/1.3.8
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 AskTbWME/3.9.1.14019 Firefox/3.6.13
+1 1
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBAR Enabled; SIMBAR={12B9C426-69A2-4c87-929B-97DE4F4094C2}; SIMBAR
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 1.1.
+1 53
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+1 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+1 274
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-us) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+1 16
+Gigabot/3.0 (http://www.gigablast.com/spider.html)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+1 72
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; FunWebProducts; SearchToolbar 1.1; SLCC2; .NET CLR 2.0
+1 1
+r355[TF268435459016724413000000018016904038] UP.Browser/6.2.3.8 (GUI) MMP/2.0
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) larbin2.6.3@unspecified.mail
+1 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.98 Safari/534.13
+1 9
+Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)
+1 12
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 AskTbFWV5/3.9.1.14019 Firefox/3.6.13
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+1 11
+KDE Konqueror
+2 17
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0C) Se
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+1 26
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+1 11
+Netscape
+2 1296
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+1 4
+Sosospider+(+http://help.soso.com/webspider.htm)
+0 73
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+1 8
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+1 3
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C1
+1 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; FunWebProducts; DS_gamingharbor; FBSMTWB; GTB6.6; desktopsmil
+1 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TBP_7.0_GS; .NET CLR 2.0.50727)
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.
+1 11
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0C)
+1 11
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+1 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152
+1 3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile
+1 14
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19
+1 8
+AppEngine-Google; (+http://code.google.com/appengine; appid: getfavicon)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Sky Broadband; GTB6.6; .NET CLR 1.1.4322)
+1 16
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.6; FunWebProducts; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .N
+1 18
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media C
+1 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0
+1 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider (http://www.entireweb.com/about/search_tech/speedy_spider/)
+1 6
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.2) Gecko/20121223 Ubuntu/9.25 (jaunty) Firefox/3.8
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TurboUpload.com Toolbar v. 1.1; .NET CLR 2.0.50727; MEGAUPLOAD 2.0)
+1 1
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_3 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7
+1 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media C
+1 3
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+1 292
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+1 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.
+1 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.16) Gecko/20101130 Firefox/3.5.16 (.NET CLR 3.5.30729)
+1 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
+1 139
+Mozilla/5.0 (compatible; YandexAntivirus/2.0; +http://yandex.com/bots)
+1 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; AT&T CSM6.0; (R1 1.3); .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1;
+1 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) (larbin2.6.3@unspecified.mail)
+1 2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 GTB7.1 ( .NET CLR 3.5.30729)
+1 2
+Micro$oft Internet Exploder
+2 879
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; MS-RTC LM 
+1 4
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.13) Gecko/20101203 AskTbFWV5/3.9.1.14019  Firefox runtime 11.00310 (
+1 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.0.10) Gecko/20070216 Firefox/1.5.0.10
+1 2
+Mail.Ru/1.0
+0 105
+# End Of Table - agents
+# -search strings- 
+edwin lu-
+1
+tippetts roya-
+1
+jeffrey cornel ludlow
+1
+kenneth michael huey
+1
+sunny ludlow
+1
+daniel nathan ludlow utah
+1
+moses ludlow
+1
+curtis floyd toone
+1
+nathaniel ludlow
+3
+olive murtle ludlow
+1
+james t ludlow
+1
+don l harward
+1
+allen jack brimhall family in utah
+1
+judy ludlow
+1
+glouchesterengland
+1
+gordon alfred chapman
+1
+ludlow australia
+1
+max ludlow
+1
+nathaniel ludlow benjamin utah
+1
+elinor hone malm
+1
+charles agraangus
+1
+charlotte ludlow
+1
+kirk ludlow wright
+1
+louanne catherine ludlow
+1
+larry scott hawkins
+1
+herbert ind avening gloucestershire
+1
+baxter (barford or wramplingham) norfolk ~genealogy
+1
+william hosken langdon builder
+1
+mary ann niblett 1821
+1
+george kidd proctor
+1
+agnes ludlow
+1
+samuel ludlow decendents
+1
+russell ludlow
+1
+nate ludlow
+1
+kenneth c langdon
+1
+jack hartley b1890 north of england builder
+1
+marjorie ludlow knudsen
+1
+walter and michele ludlow
+1
+brandon -
+1
+john ludlow mary mathews
+1
+brooke alldredge
+1
+gordon fred jensen
+1
+albert ludlow
+1
+lynn alan gilbert
+1
+eli hawkins utah
+1
+ronald ludlow spanish fork utah
+1
+natalie pierce heath
+1
+fanny jane ludlow
+1
+john g. lowther delaware 1796
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
